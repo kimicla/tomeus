@@ -1,0 +1,6 @@
+{
+  "name": "Tomeus",
+  "description": "Tomeus is an AI-powered application to translate text content within images or PDF documents while preserving the original layout. Upload a file, choose a target language, and see the translated text overlaid in its correct position.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
